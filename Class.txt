@@ -1,0 +1,67 @@
+
+Task-1
+
+Product classi yaradin ve asagidaki xususiyyetleri olsun
+
+Name - mehsulun adini ifade eden xususiyyet 
+
+BrandName - Mehsulun brand adi 
+
+Price - Mehsulun qiymeti
+
+ShowInfo() - mehsul infosunu consola yazdiran metod
+
+
+
+
+
+Task-2.
+
+Asagidaki classlari qurun, Vehicle classindan Car clasina miras verin
+
+Vehicle class
+
+Color
+Year
+
+Car : Vehice
+
+Brand
+
+Model
+
+FuelCapacity
+
+FuelFor1Km
+
+CurrentFuel
+
+
+ShowFuelInfo()-Benzin haqqinda melumat verir
+
+Drive() - nece km gedileceyini bildirir(parametr km qebul edir) eger gee bilmirse bize melumat versin
+
+AddFuel()- parameter olaraq nece litr elave etmek istenildiyi gonderilir
+
+ps: Modeli, brandi,FuelFor1km, FuelCapacity teyin olunmamis Car obyekti ola bilmez (constructorda istenilmelidir!)
+
+
+
+
+
+Task 3
+
+Asagidaki sturukturda classlar qurun
+
+Human class - Name - Surname - Gender
+
+Doctor: Human - No - Speciality - Experience
+
+Her iki classda ShowInfo metodunuz olsun ve bu metod miras alan classda override olunsun.
+
+
+
+
+
+
+
